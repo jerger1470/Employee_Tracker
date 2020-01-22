@@ -1,0 +1,28 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "Employee tracker app using node and mySQL database to return tables of data based on user input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerger1470/Employee_Tracker.git"
+  },
+  "keywords": [
+    "node",
+    "mySQL",
+    "inquirer"
+  ],
+  "author": "Bryan Jerger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerger1470/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/jerger1470/Employee_Tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  }
+}
