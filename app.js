@@ -69,6 +69,7 @@ function runLogin(){
 //Run Employee tracker, if verification passes
 
 function runApp() {
+
     inquirer
       .prompt(
 
